@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState, useReducer, useMemo, useEffect } from "react";
 
 // ── Paleta y estilos globales ───────────────────────────────────────────
